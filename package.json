@@ -30,6 +30,7 @@
     "clone-deep": "^0.3.0",
     "loader-utils": "^1.0.1",
     "lodash.tail": "^4.1.1",
+    "node-sass-asset-functions": "^0.1.0",
     "pify": "^3.0.0"
   },
   "devDependencies": {
